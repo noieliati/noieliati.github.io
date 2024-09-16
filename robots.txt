@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://noieliati.github.io/sitemap.html.gz
+Sitemap: https://noieliati.github.io/app/sitemap.html.gz
+Sitemap: https://noieliati.github.io/assets/sitemap.html.gz
+Sitemap: https://noieliati.github.io/css/sitemap.html.gz
+Sitemap: https://noieliati.github.io/includes/sitemap.html.gz
+Sitemap: https://noieliati.github.io/item/sitemap.html.gz
+Sitemap: https://noieliati.github.io/src/sitemap.html.gz
